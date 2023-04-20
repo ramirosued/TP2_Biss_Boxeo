@@ -1,0 +1,15 @@
+Z:\programacion 2023\tp2_Bis\bin\Debug\net7.0\tp2_Bis.exe
+Z:\programacion 2023\tp2_Bis\bin\Debug\net7.0\tp2_Bis.deps.json
+Z:\programacion 2023\tp2_Bis\bin\Debug\net7.0\tp2_Bis.runtimeconfig.json
+Z:\programacion 2023\tp2_Bis\bin\Debug\net7.0\tp2_Bis.dll
+Z:\programacion 2023\tp2_Bis\bin\Debug\net7.0\tp2_Bis.pdb
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.csproj.AssemblyReference.cache
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.GeneratedMSBuildEditorConfig.editorconfig
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.AssemblyInfoInputs.cache
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.AssemblyInfo.cs
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.csproj.CoreCompileInputs.cache
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.dll
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\refint\tp2_Bis.dll
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.pdb
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\tp2_Bis.genruntimeconfig.cache
+Z:\programacion 2023\tp2_Bis\obj\Debug\net7.0\ref\tp2_Bis.dll
